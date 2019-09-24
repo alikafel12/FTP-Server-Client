@@ -1,6 +1,6 @@
 # FTP Server Client
 
-Implemented a file transfer protocol between a server and client in C for a class project
+Implemented a file transfer protocol between a server and client in C for a class project for my systems programming class.
 
 # Built With
 
